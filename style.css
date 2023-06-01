@@ -1,8 +1,9 @@
-h1 {
+#TAIL WIND CSS (FOR WEBSITE COLOR PALETES) h1 {
   font-size: 42px;
   text-transform: uppercase;
   text-align: center;
   font-family: coiny, sans-serif;
+  color: #5d5fde;
 }
 
 p {
@@ -19,4 +20,8 @@ p {
 
 ul {
   list-style: none;
+}
+
+body {
+  background-color: #292524;
 }
