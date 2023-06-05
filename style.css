@@ -1,6 +1,11 @@
 /*TAIL WIND CSS (FOR WEBSITE COLOR PALETES) 
 */
 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 body {
   color: #fafaf9;
   font-family: "Sono", sans-serif;
@@ -15,6 +20,9 @@ h1 {
   color: #fafaf9;
 }
 
+.header {
+  margin: 48px;
+}
 .fact {
   font-size: 20px;
   line-height: 1.4;
